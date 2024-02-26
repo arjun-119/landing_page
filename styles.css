@@ -51,7 +51,7 @@ ul{
     max-width: 400px;
     gap: 7px;
 }
-h1{
+.first{
     font-size: 48px;
     font-weight: bold;
     color: #f9faf8;
@@ -83,4 +83,9 @@ button{
     padding:6px 22px;
     border-radius: 6px;    
     border: 0;
+}
+
+.second{
+    text-align: center;
+    padding:30px;
 }
