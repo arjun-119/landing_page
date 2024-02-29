@@ -98,9 +98,18 @@ button{
 
 .flex2{
   display: flex;
+  justify-content: center;
+  gap:70px;
+  margin-left: 400px;
+  margin-right: 400px;
 }
 
 .child{
   display: flex;
   flex-direction: column;
+  gap:10px;
+  text-align: center;
 }
+
+
+
