@@ -89,3 +89,18 @@ button{
     text-align: center;
     padding:30px;
 }
+.block{
+  padding: 90px;
+  border-style: solid;
+  border-radius: 15px;
+  border-color: #3882F6;
+}
+
+.flex2{
+  display: flex;
+}
+
+.child{
+  display: flex;
+  flex-direction: column;
+}
