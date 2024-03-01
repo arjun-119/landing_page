@@ -2,6 +2,11 @@ html {
   font-family: "Roboto", sans-serif;
 }
 
+.main{
+    display: flex;
+    flex-direction: column;
+}
+
 .sec1 {
   background-color: #1f2937;
 }
@@ -169,3 +174,11 @@ button {
     font-weight: bold;
    }
 
+   .sec5{
+        background-color:#1f2937 ;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 35px 0;
+        color: white;
+   }
