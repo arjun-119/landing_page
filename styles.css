@@ -130,3 +130,16 @@ button {
   font-size: 36px;
   font-weight: 20px;
 }
+
+.under{
+    background-color: #3882f6;
+    margin: 120px 230px;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 65px;
+}
+
+.sub{
+    display: flex;
+    flex-direction: column;
+}
